@@ -1,4 +1,4 @@
-HTML5 INVESTIC Experimets
+VVVV.js Experimets
 =========================
 
 App para poder trabajar con vvvv.js desde un proyecto tipo express en node.js
