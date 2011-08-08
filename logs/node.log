@@ -1,0 +1,18 @@
+18 Apr 23:42:24 - Your node instance does not have root privileges. This means that the flash XML policy file will be served inline instead of on port 843. This will slow down initial connections slightly.
+18 Apr 23:42:24 - socket.io ready - accepting connections
+Express server listening on port 3001
+19 Apr 00:00:25 - Your node instance does not have root privileges. This means that the flash XML policy file will be served inline instead of on port 843. This will slow down initial connections slightly.
+19 Apr 00:00:25 - socket.io ready - accepting connections
+Express server listening on port 3001
+19 Apr 00:04:35 - Your node instance does not have root privileges. This means that the flash XML policy file will be served inline instead of on port 843. This will slow down initial connections slightly.
+19 Apr 00:04:35 - socket.io ready - accepting connections
+Express server listening on port 3001
+28 May 19:44:20 - Your node instance does not have root privileges. This means that the flash XML policy file will be served inline instead of on port 843. This will slow down initial connections slightly.
+28 May 19:44:20 - socket.io ready - accepting connections
+Express server listening on port 3001
+24 Jun 13:06:21 - Your node instance does not have root privileges. This means that the flash XML policy file will be served inline instead of on port 843. This will slow down initial connections slightly.
+24 Jun 13:06:21 - socket.io ready - accepting connections
+Express server listening on port 3001
+24 Jun 13:21:51 - Your node instance does not have root privileges. This means that the flash XML policy file will be served inline instead of on port 843. This will slow down initial connections slightly.
+24 Jun 13:21:51 - socket.io ready - accepting connections
+Express server listening on port 3001
