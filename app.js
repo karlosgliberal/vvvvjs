@@ -28,16 +28,16 @@ app.configure('production', function(){
 
 // Routes
 
-app.get('/arbol', function(req, res){
+app.get('/vvvvjs', function(req, res){
   res.render('index', {
     locals: {
-      title: 'Express'
+      title: 'Ejemplo vvvv.js'
     }
   });
 });
 
 app.get('/', function(req, res){
-  res.redirect('/arbol');
+  res.redirect('/vvvvjs');
 });
 
 // socket.io 
@@ -55,6 +55,6 @@ socket.on('connection', function(client){
 
 // Only listen on $ node app.js
 if (!module.parent) {
-  app.listen(3001);
+  app.listen(3002);
   console.log("Express server listening on port %d", app.address().port)
 }
